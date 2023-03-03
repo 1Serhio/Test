@@ -186,4 +186,5 @@ $ git commit -m "Story 182: fix benchmarks for speed"
 __*Желаю удачи в дальнейшем изучении Git!*__
 # Дополнительные материалы
 [Учебник по Git на русском языке](https://git-scm.com/book/ru/v2)
+
 [Вводный курс по Git](https://smartiqa.ru/courses/git) от [smartiqa.ru](https://smartiqa.ru/about).
